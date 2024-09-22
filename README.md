@@ -1,5 +1,7 @@
 <h1>Interaction Information Based Automated Feature Engineering (IIFE)</h1>
 
+This is the public version of IIFE. The private version used for the review process is located at https://github.com/2oppy67zj4ky/Appendix
+
 <h2>How to run</h2>
 See requirements.txt for the python packages needed for running IIFE, these can be installed using  pip install -r requirements.txt. See test_iife.py for a reference test script that can be simply run with python test_iife.py. 
 Most of this file is loading in data, hyperparameter tuning, finding test scores before and after AutoFE, etc. The line for calling IIFE is on line 185.
